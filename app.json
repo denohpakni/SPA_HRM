@@ -1,0 +1,6 @@
+{
+  "name": "Spa-HRM",
+  "description": "Trying to launch Orange HRM on Heroku PHP",
+  "repository": "https://github.com/denohpakni/SPA_HRM.git",
+  "addons": ["ClearDB MySQL"]
+}
