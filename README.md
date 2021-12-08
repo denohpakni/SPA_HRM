@@ -26,3 +26,7 @@ DataBase = "heroku_c30e69b0969babd"
 
     heroku run bash
 
+On Heroku it's [Peacefull Messa](https://peaceful-mesa-82500.herokuapp.com/)
+
+    heroku git:remote -a peaceful-beyond-42889
+
